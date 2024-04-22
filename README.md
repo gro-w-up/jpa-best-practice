@@ -42,7 +42,7 @@
 ---
 
 ### 🚀 예제 코드
-- [에이콘 출판사](https://github.com/switchover/spring-boot-persistence)
+- [에이콘 출판사꺼 아님](https://github.com/switchover/spring-boot-persistence)
 
 ---
 
